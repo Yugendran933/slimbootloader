@@ -1011,7 +1011,6 @@ DmarTableUpdate (
   } else {
     IgdMemSize = 4 * (IgdMode - 0xF0 + 1) * (1024) * (1024);
   }
-
   ///
   /// Calculate GTT mem size
   ///
