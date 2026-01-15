@@ -997,7 +997,6 @@ DmarTableUpdate (
     }
   }
   DEBUG ((DEBUG_INFO, "DMAR table update - DmaControlGuarantee flag: 0x%x\n", Flags));
-  
   ///
   /// Calculate IGD memsize
   ///
